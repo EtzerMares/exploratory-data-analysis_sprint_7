@@ -17,3 +17,4 @@ La aplicación ofrece los siguientes gráficos interactivos para explorar los da
 Los usuarios pueden seleccionar los gráficos que desean visualizar utilizando casillas de verificación.
 
 
+https://exploratory-data-analysis-sprint-7.onrender.com/
